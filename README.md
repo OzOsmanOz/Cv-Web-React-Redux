@@ -6,7 +6,6 @@
 ![reacticon](https://user-images.githubusercontent.com/107813778/206437364-37fe1387-a98d-4f48-bc4e-6a4ff5d8619b.png)
 ![reduxicon](https://user-images.githubusercontent.com/107813778/206437375-1f18f731-8a0e-44ff-806b-5c326f6877a6.png)
 ![routericon](https://user-images.githubusercontent.com/107813778/206437368-b75da2bc-014b-4df5-9d42-b20cd826545c.jpg)
-![jsonicon](https://user-images.githubusercontent.com/107813778/206437378-d7bdba0a-d0af-4e95-9536-2af431f0af7d.png)
 ![axiosicon](https://user-images.githubusercontent.com/107813778/206437372-e03c0ac8-a4f7-4aef-b911-63c5654a24c1.png)
 
 
