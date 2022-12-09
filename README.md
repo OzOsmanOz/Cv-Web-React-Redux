@@ -1,4 +1,7 @@
 
+
+
+
 https://github.com/OzOsmanOz/Cv-Web-React-Redux/blob/master/cv-web.mp4
 
 ## Used technologies
