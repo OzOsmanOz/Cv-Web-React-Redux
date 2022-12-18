@@ -1,7 +1,5 @@
 
-
-https://user-images.githubusercontent.com/107813778/208326213-210c36e9-348b-4e5a-aeb4-f4c6d6f3d214.mp4
-
+https://user-images.githubusercontent.com/107813778/208326290-46bf8da8-7d6e-4e9c-8107-463b65dd6141.mp4
 
 
 ## Used technologies
